@@ -65,7 +65,7 @@
 <div align="center">
 
 ### 🏆 Top Contribution
-![](https://github-contributor-stats.vercel.app/api?username=bagatata05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bagatata05&limit=99&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
