@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm15cGNlMzI5ODZlampiaXhuYmdqcXFyYjJpaDlmeXdwOGYzamNrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # Hi there, I’m Naphier!
