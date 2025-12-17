@@ -13,6 +13,12 @@
 [![](https://visitcount.itsvg.in/api?id=bagatata05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+<!-- Badges -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=bagatata05&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/bagatata05?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%9A%80-00d9ff?style=for-the-badge&labelColor=1a1b27" alt="status" />
+</p>
 
 ### 🌐 Connect with me
 
@@ -27,22 +33,32 @@
 
 <div align="center">
 
-### 💻 Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
 
-| **Languages** | **Frameworks** | **Backend & Cloud** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
-| ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) |
-| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) |  |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,vite,webpack&theme=dark&perline=5" />
 
----
+### 📱 Mobile Development  
+<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark&perline=5" />
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,mongodb,firebase,graphql,redis&theme=dark&perline=5" />
+
+### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,vscode,figma,linux,bash&theme=dark&perline=5" />
+
+</td>
+</tr>
+</table>
 
 ### 📊 GitHub Stats
 
