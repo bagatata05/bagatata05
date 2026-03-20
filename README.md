@@ -109,9 +109,9 @@ $ projects --filter starred --sort desc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagatata05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats-blue-gamma-77.vercel.app/api?username=bagatata05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagatata05&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-blue-gamma-77.vercel.app/api/top-langs/?username=bagatata05&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
 
 </div>
 
