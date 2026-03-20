@@ -13,7 +13,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bagatata05&style=flat-square&color=00ff41&label=PROFILE+VIEWS)](https://github.com/bagatata05)
 [![Followers](https://img.shields.io/github/followers/bagatata05?label=Followers&style=flat-square&color=00ff41&labelColor=1a1b27)](https://github.com/bagatata05?tab=followers)
-[![Portfolio](https://img.shields.io/badge/Portfolio-naph--portfolio.netlify.app-00ff41?style=flat-square&logo=netlify&logoColor=white)](https://naph-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-naphier--portfolio.vercel.app-00ff41?style=flat-square&logo=vercel&logoColor=white)](https://naphier-portfolio.vercel.app/)
 
 </div>
 
