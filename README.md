@@ -33,7 +33,7 @@ $ cat naphier.json
   "location"   : "Philippines 🇵🇭",
   "focus"      : ["Web Development", "Mobile Apps", "UI/UX & Animation"],
   "stack"      : ["React", "Next.js", "Flutter", "Laravel", "TypeScript", "GSAP"],
-  "portfolio"  : "https://naph-portfolio.netlify.app/",
+  "portfolio"  : "https://naph-portfolio.netlify.app/", https://naphier-portfolio.vercel.app/
   "status"     : "🟢 Building & Learning"
 }
 ```
