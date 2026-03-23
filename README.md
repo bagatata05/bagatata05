@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Flutter;Laravel+%E2%80%A2+PHP+%E2%80%A2+MySQL+%E2%80%A2+Firebase;Building+Web+%26+Mobile+Apps+that+matter+%F0%9F%9A%80;Always+shipping.+Always+learning.+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Flutter;Node.js+%E2%80%A2+Express.js+%E2%80%A2+Laravel+%E2%80%A2+PHP;MySQL+%E2%80%A2+MongoDB+%E2%80%A2+Firebase+%E2%80%A2+Docker;Building+Web+%26+Mobile+Apps+that+matter+%F0%9F%9A%80;Always+shipping.+Always+learning.+%F0%9F%9F%A2" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,7 +27,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`$ whoami`
 
-<img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```json
 {
@@ -42,13 +44,12 @@
   ],
   "stack"    : [
     "React", "Next.js", "Flutter",
+    "Node.js", "Express.js",
     "Laravel", "TypeScript", "GSAP"
   ],
   "status"   : "🟢 Open to Opportunities"
 }
 ```
-
-<br/>
 
 > 🔭 &nbsp;IT student passionate about building **web and mobile applications**
 >
@@ -56,9 +57,18 @@
 >
 > 🌱 &nbsp;Currently leveling up in **Full-Stack Architecture**, **Flutter**, and **Creative UI/UX with GSAP**
 >
-> 💬 &nbsp;Ask me about **React**, **Flutter**, **Laravel**, **GSAP**, or anything full-stack!
+> 💬 &nbsp;Ask me about **React**, **Flutter**, **Node.js**, **Laravel**, **GSAP**, or anything full-stack!
 >
 > 🎯 &nbsp;Motto: *"First, solve the problem. Then, write the code."*
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -89,7 +99,6 @@
 ### ⚙️ &nbsp; Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
