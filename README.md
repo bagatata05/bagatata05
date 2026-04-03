@@ -135,18 +135,17 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`$ git log --oneline --graph`
 
 <div align="center">
-
-<a href="https://github.com/bagatata05">
-  <img height="185em" src="https://github-readme-stats-blue-gamma-77.vercel.app/api?username=bagatata05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41"/>
-  <img height="185em" src="https://github-readme-stats-blue-gamma-77.vercel.app/api/top-langs/?username=bagatata05&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-</a>
-
+ 
+<img height="180em" src="https://github-readme-stats-blue-gamma-77.vercel.app/api?username=bagatata05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=00ff4130&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats-blue-gamma-77.vercel.app/api/top-langs/?username=bagatata05&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=00ff4130&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+ 
 </div>
-
+ 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bagatata05&theme=dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=aaaaaa&dates=aaaaaa)](https://github.com/bagatata05)
-
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bagatata05&theme=dark&hide_border=false&border=00ff4130&background=0D1117&stroke=00ff41&ring=00ff41&fire=ffaa00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=888888&dates=666666)](https://github.com/bagatata05)
+ 
 </div>
 
 <div align="center">
